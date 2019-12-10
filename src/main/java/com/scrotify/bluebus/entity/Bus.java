@@ -31,7 +31,7 @@ public class Bus {
 	private Double busFare;
 	private LocalTime depatureTime;
 	private LocalTime arrivalTime;
-	private Integer duration;
+	private String duration;
 	
 	
 	
